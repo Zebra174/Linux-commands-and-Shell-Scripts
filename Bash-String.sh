@@ -1,5 +1,3 @@
-# Author : Jaydatt Patel
-
 string="Hello, World!"
 length=${#string}
 for ((i = 0; i < length; i++)) 
