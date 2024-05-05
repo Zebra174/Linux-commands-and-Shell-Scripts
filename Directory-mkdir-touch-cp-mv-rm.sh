@@ -1,4 +1,3 @@
-# Author : Jaydatt Patel
 # . : Current Directory
 # .. : Parent Directory
 # ~ : Home Directory
