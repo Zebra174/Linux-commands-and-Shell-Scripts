@@ -1,4 +1,3 @@
-# Author : Jaydatt Patel
 # ps to get all running prossess list
 # m : sort by Memory usage
 # p : sort by CPU usage
