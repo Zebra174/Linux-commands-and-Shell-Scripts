@@ -1,4 +1,4 @@
-# Author : Jaydatt Patel
+
 # arithmetic : +,-,*,/,%
 #syntax : $((arithmetic))
 
