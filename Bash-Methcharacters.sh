@@ -1,4 +1,3 @@
-# Author : Jaydatt Patel
 # '#' for comment
 # echo "comment"
 
