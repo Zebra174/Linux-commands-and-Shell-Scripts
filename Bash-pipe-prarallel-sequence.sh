@@ -1,5 +1,3 @@
-# Author : Jaydatt Patel
-
 # run command piping  [command] | [command] | ......
 sort animal.txt | uniq 
 sort animal.txt | uniq | tr "[a-z]" "[A-Z]" # tr for replace characters.
