@@ -1,4 +1,3 @@
-# Author : Jaydatt Patel
 # whoami to get username
 whoami
 username=`whoami`
