@@ -1,4 +1,4 @@
-# Author : Jaydatt Patel
+
 # get host computer or device name and ip address
 hostname # computer name local
 hostname -s # computer name
